@@ -13,5 +13,5 @@ on running and/or testing.
 > word one: test
 > word two: ing
 > Your new favorite stirng is: testing
->    # here the code loops for more tests
+>               # here the code loops for more tests
 > word one:
