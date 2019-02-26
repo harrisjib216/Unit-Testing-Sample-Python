@@ -9,10 +9,10 @@ on running and/or testing.
 
 
 # Results
->Please enter two of your favorite words (enter x to quit)
->word one: test
->word two: ing
->Your new favorite stirng is: testing
-
-The code loops for more tests 
->word one:
+    Please enter two of your favorite words (enter x to quit)
+    word one: test
+    word two: ing
+    Your new favorite stirng is: testing
+    
+    ## The code loops for more tests ##
+    word one:
