@@ -14,5 +14,5 @@ on running and/or testing.
 > word two: ing
 > Your new favorite stirng is: testing
 
-The code loops for more tests
+The code loops for more tests 
 > word one:
